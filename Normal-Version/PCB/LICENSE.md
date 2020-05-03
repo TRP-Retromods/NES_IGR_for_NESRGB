@@ -1,0 +1,2 @@
+A friendly reminder: the PCB designed by Voultar is under the same license as the main project (currently GPLv3).
+It's not allowed to remove Voultars logo from the Gerber files prior to manufacturing, distribution and/or selling.
