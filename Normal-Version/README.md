@@ -8,7 +8,7 @@ As far as I know the PCB will be also available on [Voultar's Mod Shop](https://
 
 #### PCB (Backup)
 
-You can use the old style PCB if you want to. However, it's somehow outdated. Here is the old README I deleted with a previous commit.
+You can use the old style PCB if you want to (and in case you have/found the PCB design files from somewhere). However, it's somehow outdated. Here is the old README I deleted with a previous commit.
 
 ```
 Components:
@@ -32,7 +32,7 @@ You may order that PCB at OSHPark -> https://oshpark.com/shared_projects/C9jdssM
 
 #### Firmware
 
-Grab the firmware for the PIC16F684 [here](https://github.com/borti4938/Switchless-Mods/tree/master/NES/IGR_for_NESRGB/)
+Grab the firmware for the PIC16F684 [here](https://github.com/borti4938/NES_IGR_for_NESRGB/tree/master/fw/IGR_for_NESRGB)
 
 -  current version: use the 'normal version' and flash the nesrgb_igr_684_var_led.hex. This 
 -  older PCB version (with three 1k --10k resistors next to the 74*125): use the 'risky version' and flash nesrgb_igr_684_risky_var_led.hex
